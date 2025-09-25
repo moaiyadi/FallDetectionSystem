@@ -8,6 +8,6 @@ venv/
 env/
 
 # Ignore large weight files
-*.pt
+# *.pt
 *.pth
 *.onnx

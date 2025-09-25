@@ -15,6 +15,7 @@ The system can detect human falls in real time from video streams, images, or we
 ---
 
 ## 📂 Project Structure
+```
 fall-detection-system/
 │── Yolov11.py # Train YOLOv11 model on dataset
 │── predict.py # Run inference on images, videos, or webcam
@@ -23,6 +24,7 @@ fall-detection-system/
 │── requirements.txt # Project dependencies
 │── README.md # Documentation
 │── LICENSE # License information
+```
 
 ---
 

@@ -1,0 +1,13 @@
+# Ignore training outputs
+runs/
+
+# Ignore virtual environments
+yolovenv/
+venv/
+.venv/
+env/
+
+# Ignore large weight files
+*.pt
+*.pth
+*.onnx
